@@ -1,9 +1,9 @@
-// @import 'valiables';
+@import 'variables';
 
 
 h1 {
-    color: green;
+    color: $red-color;
     padding: 1px;
-    background-color: red;
+    background-color: yellow;
     
 }
