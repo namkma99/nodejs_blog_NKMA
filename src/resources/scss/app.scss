@@ -1,9 +1,7 @@
 @import 'variables';
 
-
-h1 {
-    color: $red-color;
-    padding: 1px;
-    background-color: yellow;
-    
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
